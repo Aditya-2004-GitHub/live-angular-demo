@@ -1,0 +1,7 @@
+ul,li,a{
+    display: inline;
+    padding: 10px;
+    list-style-type: none;
+    text-decoration: none;
+    background-color: green;
+}
